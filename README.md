@@ -3,7 +3,23 @@ This course begin with the introduction to the general concept of cryptography i
 
 
 
-ASSIGNMENT : ELLIPTIC CURVE
-Given
-𝐸: 􀝕􀬶 􀵌 􀝔􀬷 􀵅 􀝔 􀵅 6
-Generate all the points in 𝐸􁈺􀥲􀬵􀬵).
+ASSIGNMENT : ELLIPTIC CURVE[Assignment Elliptic Curve.pdf](https://github.com/kitkatlky/Cryptography/files/7598466/Assignment.Elliptic.Curve.pdf)
+
+1.  Given 
+                  E: y^2 = X^3 + x + 6
+    Generate all the points in E(F_11).
+  
+2.  Elliptic Curve defined E: y^2 = X^3 + 22x + 25. Points P_1 = (1,1) and P_2 = (25,28) satisfy the equation   
+    E(F_47). Find P_3.
+    
+3.  Alice and Bob agree to use elliptic Diffie-Hellmen key exchange with the prime, eliptic curve and point 
+                           p = 47, E: y^2 = x^3 + 22x + 25, P = (30,7) is in E(F_47)
+    show encryption and decryption process for message m = (3,27).
+    
+4.  Make a comparison between ECC and RSA. List at least 3 good and bad things for ECC and RSA. 
+
+
+
+MINI PROJECT [REPORT FULL.pdf](https://github.com/kitkatlky/Cryptography/files/7598507/REPORT.FULL.pdf)
+
+Task: Develop a simple cryptography game to demonstrate key generation, encryption and decryption procedures.
